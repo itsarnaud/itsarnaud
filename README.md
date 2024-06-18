@@ -1,5 +1,5 @@
 # 👋 Hello everyone :)
-🙋🏼‍♂️ I'm Arnaud, 19yo <br>
+🙋🏼‍♂️ I'm Arnaud, 20yo <br>
 👨🏼‍💻 I'm currently studying web development <br>
 💭 I’m currently learning JS, Svelte & NodeJS<br>
 📫 How to reach me **arnaud.royer77@gmail.com**
