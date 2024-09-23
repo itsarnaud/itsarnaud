@@ -1,7 +1,7 @@
 # 👋 Hello everyone :)
 🙋🏼‍♂️ I'm Arnaud, 20yo <br>
 👨🏼‍💻 I'm currently studying web development <br>
-💭 I’m currently learning JS, Svelte & NodeJS<br>
+💭 I’m currently learning Java, Spring Boot & React<br>
 📫 How to reach me **arnaud.royer77@gmail.com**
 
 # ✨ My Tech Skills
