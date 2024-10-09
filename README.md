@@ -2,7 +2,7 @@
 🙋🏼‍♂️ I'm Arnaud, 20yo <br>
 👨🏼‍💻 I'm currently studying web development <br>
 💭 I’m currently learning Java, Spring Boot, Symfony & React<br>
-💁🏼‍♂️ Take a look to my portfolio <a href="https://www.arnaud-royer.xyz" target="blank">here</a> <br>
+💁🏼‍♂️ Take a look to my portfolio <a href="https://www.arnaud-royer.xyz" target="_blank">here</a> <br>
 📫 How to reach me **arnaud.royer77@gmail.com**
 
 # ✨ My Tech Skills
@@ -11,8 +11,8 @@
 
 # 👥 My Socials
 
-<a href="https://www.linkedin.com/in/royer-arnaud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaud royer" height="30" width="40" /></a>
-<a href="https://instagram.com/cestarnaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cestarnaud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/royer-arnaud/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaud royer" height="30" width="40" /></a>
+<a href="https://instagram.com/cestarnaud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cestarnaud" height="30" width="40" /></a>
 
 # 📊 Github Stats
 
