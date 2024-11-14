@@ -1,7 +1,7 @@
 # 👋 Hello everyone :)
 🙋🏼‍♂️ I'm Arnaud, 20yo <br>
 👨🏼‍💻 I'm currently studying web development <br>
-💭 I’m currently learning Java, Spring Boot, Symfony & React<br>
+💭 I’m currently learning Next, Symfony & React<br>
 💁🏼‍♂️ Take a look to my portfolio **<a href="https://www.arnaud-royer.xyz" target="_blank">here</a>** <br>
 📫 How to reach me **arnaud.royer77@gmail.com**
 
