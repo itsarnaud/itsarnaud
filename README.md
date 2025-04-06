@@ -1,9 +1,9 @@
 # 👋 Hello everyone :)
 🙋🏼‍♂️ I'm Arnaud, 20yo <br>
 👨🏼‍💻 I'm currently studying web development <br>
-💭 I’m currently learning Next, Symfony & React<br>
+💭 I’m currently learning Java, Spring & Vue<br>
 💁🏼‍♂️ Take a look to my portfolio **<a href="https://www.arnaud-royer.xyz" target="_blank">here</a>** <br>
-📫 How to reach me **arnaud.royer77@gmail.com**
+📫 How to reach me **arnaud.royer77@gmail.com**<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cestarnaud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/royer-arnaud) 
@@ -21,4 +21,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=itsarnaud&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itsarnaud&icon=0&color=0)](https://visitcount.itsvg.in)
+i ❤️ js :)
