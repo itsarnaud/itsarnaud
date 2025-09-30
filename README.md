@@ -1,5 +1,5 @@
 # 👋 Hello everyone :)
-🙋🏼‍♂️ I'm Arnaud, 20yo <br>
+🙋🏼‍♂️ I'm Arnaud, 21yo <br>
 👨🏼‍💻 I'm currently studying web development <br>
 💭 I’m currently learning Java, Spring & Vue<br>
 💁🏼‍♂️ Take a look to my portfolio **<a href="https://www.arnaud-royer.xyz" target="_blank">here</a>** <br>
