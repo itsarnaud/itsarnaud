@@ -43,3 +43,9 @@ I'm a freelance Fullstack Developer and Master's student at EPSI. I mainly work 
 ### OS
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+***
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</picture>
