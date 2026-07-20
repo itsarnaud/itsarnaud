@@ -16,8 +16,8 @@
 
 I'm a freelance Fullstack Developer and Master's student at EPSI. I mainly work with js to build web applications, from internal tools to user interfaces. Outside of work, I enjoy building side projects to keep learning and improving my skills.
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23B19CD9.svg?style=for-the-badge&logo=safari&logoColor=white)](https://www.arnaud-royer.xyz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaud.royer77@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23B19CD9.svg?style=for-the-badge&logo=safari&logoColor=white)](https://www.arnaudroyer.fr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@arnaudroyer.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/royer-arnaud)
 
 ***
