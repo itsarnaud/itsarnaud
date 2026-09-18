@@ -23,7 +23,7 @@ I'm a freelance Fullstack Developer and Master's student at EPSI. I mainly work 
 ***
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsarnaud&bg_color=121212&color=FFFFFF&line=B19CD9&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github.pumbas.net/api/contributions/itsarnaud?bgColour=121212&colour=B19CD9" />
 </div>
 
 ## Tech Stack
