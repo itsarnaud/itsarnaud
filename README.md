@@ -10,7 +10,7 @@ I'm a freelance Fullstack Developer and Master's student at EPSI. I mainly work 
   <a href="https://www.arnaudroyer.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" alt="Portfolio"></picture></a>
   <a href="mailto:contact@arnaudroyer.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email"></picture></a>
   <a href="https://linkedin.com/in/royer-arnaud"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>
-  <a href="https://instagram.com/cestarnaud"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img src="assets/btn-instagram-light.svg" alt="Instagram"></picture></a>
+  <a href="https://instagram.com/itsarnaud.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img src="assets/btn-instagram-light.svg" alt="Instagram"></picture></a>
 </p>
 
 <br>
